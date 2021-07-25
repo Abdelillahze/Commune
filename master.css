@@ -176,40 +176,6 @@ section div .text input {
     }
 }
 
-@media (max-width: 602px) {
-    .container {
-        padding: 0 50px;
-    }
-    section .container div:first-child {
-        width: 100%;
-    }
-    section div p:first-child {
-        text-align: center;
-        margin: 0 auto 20px;
-    }
-    section div .text h1 {
-        text-align: center;
-        font-size: 30px;
-        margin: 0 auto 20px;
-        max-width: 300px;
-    }
-    section div .text p {
-        text-align: center;
-    }
-    section div .text input {
-        width: 300px;
-        margin: 0 auto;
-    }
-    section div .text .button {
-        width: fit-content;
-        display: inline-block;
-        text-align: center;
-    }
-    section div .text .email {
-        text-align: center;
-    }
-}
-
 section .image {
     width: 55%;
     text-align: center;
